@@ -1,0 +1,13 @@
+.products_container{
+    padding: 0;
+    background-color: rgba(234,237,237);
+}
+.image{
+    width:100%;
+    z-index:-1000;
+     margin-bottom: -30px;
+    /* mask-image: linear-gradient(to bottom, rgba(0,0,0,1),rgba(0,0,0,0)); */
+}
+.columns{
+    padding: 0;
+}

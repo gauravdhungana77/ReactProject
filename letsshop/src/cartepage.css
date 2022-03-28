@@ -1,0 +1,11 @@
+
+.productcontainer{
+    border-left: 1px solid black;
+    background-color: rgba(234,237,237);
+    height: 100vh;
+    overflow-y: auto;
+    overflow-x: auto;
+}
+.cartbanner{
+    width: 100%;
+}

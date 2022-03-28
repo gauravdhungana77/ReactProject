@@ -1,0 +1,37 @@
+
+
+.main_div{
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
+   
+
+    
+    
+    
+}
+.title{
+    background: transparent;
+    border:none;
+    outline:none;
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+textarea{
+   border:none;
+   outline: none;
+   background: transparent;   
+   margin-bottom: 20px;    
+}
+.main_div Button {
+    position: absolute;
+    border-radius: 50%;
+    outline: none;
+    bottom: 0;
+    right: 0;
+    transform: translate(0px,20px);
+}
+.main_div .plus{
+ margin-top: 5px;
+ margin-bottom: 5px;
+}
